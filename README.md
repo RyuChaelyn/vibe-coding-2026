@@ -1,31 +1,29 @@
-# 💻 AI와 비즈니스 애플리케이션 - Mission 6 (개인 저장소)
+# 💻 AI와 비즈니스 애플리케이션 - Mission 6 (유채린)
 
-본 저장소는 한국어 위키백과의 '바이브 코딩(Vibe Coding)' 내용을 바탕으로 제작된 HTML 프레젠테이션 소스 코드와 GitHub 활용 가이드 실습을 진행하는 개인 공간입니다.
+이화여자대학교 'AI와 비즈니스 애플리케이션' 수업 실습 및 프로젝트 결과물 아카이브입니다. 
+생성형 AI를 활용한 기획부터 HTML 기반 개발, GitHub 배포까지의 실습 과정을 기록합니다.
 
-## 🔗 주요 링크
-* **개인 리포지터리:** [https://github.com/RyuChaelyn/vibe-coding-2026](https://github.com/RyuChaelyn/vibe-coding-2026)
-* **개인 Pages (웹 실행 화면):** [https://ryuchaelyn.github.io/vibe-coding-2026/](https://ryuchaelyn.github.io/vibe-coding-2026/)
+## 🚀 프로젝트 결과물
 
----
+### 1. 바이브 코딩 (Vibe Coding) 발표 자료
+* **내용:** 생성형 AI 기반 개발 패러다임 분석 (HTML 프레젠테이션)
+* **[발표 자료 바로가기](https://ryuchaelyn.github.io/vibe-coding-2026/)**
 
-## 📘 깃허브 활용 가이드 요약 (4팀)
-
-### 1. Git과 GitHub의 차이
-* **Git:** 파일의 변경 이력을 관리하는 로컬 버전 관리 시스템
-* **GitHub:** Git 저장소를 온라인에서 관리하고 공유하는 클라우드 서비스
-
-### 2. 핵심 작업 흐름 (Workflow)
-`Repository 생성` ➔ `Clone` ➔ `파일 수정` ➔ `Add` ➔ `Commit` ➔ `Push` ➔ `Pages 배포`
-
-### 3. 주요 Git 명령어 요약
-* **저장소 복제:** `git clone [저장소 주소]`
-* **상태 확인:** `git status`
-* **변경사항 추가:** `git add .`
-* **Commit 생성:** `git commit -m "메시지"`
-* **GitHub 업로드:** `git push origin main`
-* **최신 내용 가져오기:** `git pull origin main`
+### 2. 인터랙티브 웹 게임
+본 과제와 별도로 제작한 인터랙티브 실습 결과물입니다.
+* **Royal Baccarat (바카라 게임):** [게임 시작](https://glowing-rolypoly-ff73ea.netlify.app)
+* **Casino High-Low Gold (하이로우 게임):** [게임 시작](https://dapper-cupcake-c7b18d.netlify.app)
 
 ---
-## 👥 팀 정보 및 관련 링크
-* **팀 리포지터리:** [https://github.com/toby0033-afk/vibe-coding-2026-team](https://github.com/toby0033-afk/vibe-coding-2026-team)
-* **팀 Pages 링크:** [https://toby0033-afk.github.io/vibe-coding-2026-team/](https://toby0033-afk.github.io/vibe-coding-2026-team/)
+
+## 🛠️ GitHub 실습 요약
+* **주요 작업:** 생성형 AI를 활용한 웹 콘텐츠 기획 및 HTML/JavaScript 개발
+* **버전 관리:** Git 및 GitHub를 활용한 프로젝트 버전 관리 및 변경 이력 추적
+* **배포:** GitHub Pages 및 Netlify를 활용한 정적 웹사이트 호스팅
+
+## 👥 팀 프로젝트 (4팀)
+* **팀 협업 저장소:** [바로가기](https://github.com/toby0033-afk/vibe-coding-2026-team)
+* **팀 결과물 통합 페이지:** [바로가기](https://toby0033-afk.github.io/vibe-coding-2026-team/)
+
+---
+*이화여자대학교 영문학부 23학번 유채린*
